@@ -1,0 +1,18 @@
+/n   - new line
+/r   - return
+/t   - tab
+
++    - add strings(dynamictxt)
+
+Variables
+
+placeholder
+
+textvalue=numbervalue
+f.eks  Cheese=30
+
+Input; collect user inf.
+
+Error
+
+raise
